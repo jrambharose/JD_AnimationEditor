@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace JD_AnimationEditor
 {
-    class Animation : Frame
+    class AnimatedSprite : Sprite
     {
         int _framesX;
         int _framesY;
@@ -17,7 +17,7 @@ namespace JD_AnimationEditor
         public bool Finished { get; set; }
         public bool Pause { get; set; }
 
-        public Animation()
+        public AnimatedSprite()
         {
             Looping = false;
             Finished = false;

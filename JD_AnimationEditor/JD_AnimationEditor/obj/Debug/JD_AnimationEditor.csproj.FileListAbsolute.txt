@@ -6,3 +6,5 @@ C:\Users\Admin\Documents\GitHub\JD_AnimationEditor\JD_AnimationEditor\JD_Animati
 C:\Users\Admin\Documents\GitHub\JD_AnimationEditor\JD_AnimationEditor\JD_AnimationEditor\bin\Debug\JD_AnimationEditor.pdb
 C:\Users\Admin\Documents\GitHub\JD_AnimationEditor\JD_AnimationEditor\JD_AnimationEditor\obj\Debug\JD_AnimationEditor.exe
 C:\Users\Admin\Documents\GitHub\JD_AnimationEditor\JD_AnimationEditor\JD_AnimationEditor\obj\Debug\JD_AnimationEditor.pdb
+C:\Users\Admin\Documents\GitHub\JD_AnimationEditor\JD_AnimationEditor\JD_AnimationEditor\bin\Debug\Tao.OpenGl.dll
+C:\Users\Admin\Documents\GitHub\JD_AnimationEditor\JD_AnimationEditor\JD_AnimationEditor\bin\Debug\Tao.OpenGl.xml

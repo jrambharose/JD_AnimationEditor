@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace JD_AnimationEditor
 {
-    class Frame
+    class Sprite
     {
         internal const int VertexAmount = 6;
         Vector[] _vertexPositions = new Vector[VertexAmount];
@@ -21,7 +21,7 @@ namespace JD_AnimationEditor
 
         public bool FlipHorizontal { get; set; }
 
-        public Frame()
+        public Sprite()
         {
             FlipHorizontal = false;
             InitVertexPositions(new Vector(0, 0, 0), 1, 1);
@@ -119,7 +119,7 @@ namespace JD_AnimationEditor
 
         public void SetColor(Color color)
         {
-            for (int i = 0; i < Frame.VertexAmount; i++)
+            for (int i = 0; i < Sprite.VertexAmount; i++)
             {
                 _vertexColors[i] = color;
             }
@@ -150,9 +150,6 @@ namespace JD_AnimationEditor
         {
             return GetCenter();
         }
-
-
-
 
 
 
