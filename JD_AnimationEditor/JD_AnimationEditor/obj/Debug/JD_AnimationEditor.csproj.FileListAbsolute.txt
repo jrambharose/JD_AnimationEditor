@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\GitHub\JD_AnimationEditor\JD_AnimationEditor\JD_AnimationEditor\bin\Debug\JD_AnimationEditor.exe.config
+C:\Users\Admin\Documents\GitHub\JD_AnimationEditor\JD_AnimationEditor\JD_AnimationEditor\obj\Debug\JD_AnimationEditor.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\JD_AnimationEditor\JD_AnimationEditor\JD_AnimationEditor\obj\Debug\JD_AnimationEditor.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\JD_AnimationEditor\JD_AnimationEditor\JD_AnimationEditor\obj\Debug\JD_AnimationEditor.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\JD_AnimationEditor\JD_AnimationEditor\JD_AnimationEditor\bin\Debug\JD_AnimationEditor.exe
+C:\Users\Admin\Documents\GitHub\JD_AnimationEditor\JD_AnimationEditor\JD_AnimationEditor\bin\Debug\JD_AnimationEditor.pdb
+C:\Users\Admin\Documents\GitHub\JD_AnimationEditor\JD_AnimationEditor\JD_AnimationEditor\obj\Debug\JD_AnimationEditor.exe
+C:\Users\Admin\Documents\GitHub\JD_AnimationEditor\JD_AnimationEditor\JD_AnimationEditor\obj\Debug\JD_AnimationEditor.pdb
