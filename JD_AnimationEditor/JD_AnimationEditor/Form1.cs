@@ -16,5 +16,10 @@ namespace JD_AnimationEditor
         {
             InitializeComponent();
         }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
