@@ -14,10 +14,10 @@ namespace JD_AnimationEditor
     {
         System.Drawing.Point m_pInitial;
         System.Drawing.Point m_pFinal;
-
         List<Rectangle> m_rcCollisionRects = new List<Rectangle>();
-
         Boolean m_bDraw;
+        string m_szSpriteSheetFilePath;
+        string m_szAnimationFilePath;
 
         public Form1()
         {
@@ -70,5 +70,17 @@ namespace JD_AnimationEditor
                 pictureBox2.Invalidate();
             }
         }
+
+        private void loadSpriteSheetToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            openFileDialog1.Filter = "All files (*.*)|*.*";
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                m_szSpriteSheetFilePath = openFileDialog1.FileName;
+                pictureBox1.ImageLocation = m_szSpriteSheetFilePath;
+                pictureBox1.Load();
+            }
+        }
+
     }
 }
