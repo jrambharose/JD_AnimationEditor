@@ -49,7 +49,7 @@ namespace JD_AnimationEditor
         }
 
         private void pictureBox2_MouseMove(object sender, MouseEventArgs e)
-        {
+        { 
             m_pFinal = e.Location;
             if (m_bDraw)
             {

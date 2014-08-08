@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace JD_AnimationEditor
-{
+{/*
     class Text
     {
         Font _font;
@@ -113,4 +113,5 @@ namespace JD_AnimationEditor
         }
 
     }
+  * */
 }

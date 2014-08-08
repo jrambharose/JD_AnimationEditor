@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace JD_AnimationEditor
-{
+{/*
     class AnimatedSprite : Sprite
     {
         int _framesX;
@@ -97,4 +97,5 @@ namespace JD_AnimationEditor
         }
 
     }
+  * */
 }

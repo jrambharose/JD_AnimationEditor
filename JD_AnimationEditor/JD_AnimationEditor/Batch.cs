@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Tao.OpenGl;
+//using Tao.OpenGl;
 
 namespace JD_AnimationEditor
-{
+{/*
     class Batch
     {
         const int MaxVertexNumber = 1000;
@@ -59,4 +59,5 @@ namespace JD_AnimationEditor
         }
 
     }
+  * */
 }

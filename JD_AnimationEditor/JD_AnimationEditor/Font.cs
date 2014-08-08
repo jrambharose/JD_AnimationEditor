@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace JD_AnimationEditor
-{
+{/*
     class Font
     {
         Texture _texture;
@@ -69,4 +69,5 @@ namespace JD_AnimationEditor
             return new CharacterSprite(sprite, charData);
         }
     }
+  * */
 }
