@@ -178,7 +178,8 @@ namespace JD_AnimationEditor
                                 {
                                         Render2DPre();
                                 }
-                                if(Render2D != null) {
+                                if(Render2D != null) 
+                                {
                                         Render2D();
                                 }
                                 if(Render2DPost != null) 
